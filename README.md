@@ -3,7 +3,7 @@
 A simple browser-based note-taking app made with **HTML**, **CSS**, and **JavaScript**.  
 It lets you create, delete, and save notes directly in your browser using **localStorage** — no database or login needed.
 
-**Live Demo:** [View on GitHub Pages](https://ardaoztasbasi.github.io/basicwebnoteapp/)
+**Live Demo:** [View on GitHub Pages](https://ardaoztasbasi.github.io/simple-note-app/)
 
 ---
 
