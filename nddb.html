@@ -1,0 +1,31 @@
+<head>
+    <title>Note App</title>
+    <link rel="stylesheet" href="nddb.css">
+</head>
+<body>
+<div id="yukleniyorEkrani">
+  <div class="yukleniyor-icerik">
+    <h2>Opening Note App...</h2>
+    <div class="progress-bar">
+      <div class="progress"></div>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="sol">
+    <h2>New Note</h2>
+    <textarea id="notInput" placeholder="Write your note..." rows="3"></textarea> <br><br>
+    <button id="notButton">Add Note</button>
+    <button id="temizleButton">🗑️ Clear All Notes</button>
+
+  </div>
+
+  <div class="sag">
+    <h2>Notes</h2>
+    <div id="notListe"></div>
+  </div>
+</div>
+
+<script src="nddb.js"></script>    
+</body>
